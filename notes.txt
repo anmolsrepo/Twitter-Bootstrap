@@ -1,0 +1,25 @@
+﻿**Collection of tools** for creating website and web applications
+Design template for html, css for text, form, buttons, chart, navigation.. plus optional javascript components
+
+Most popular on github, nasa and msnbc using this framework
+
+Developed for consistency and speeding up at twitter for their internal tools and later released as open source
+
+Features: Responsive, html5 and css3 support in latest browser
+
+Structure: Modular. Series of LESS stylesheets provide various components of the toolkit
+
+> LESS is dynamic stylesheet language. Influenced by SASS and now influenced some components of SASS ( SCSS - Sassy CSS )  
+**SASS was designed** to **Simplify** and **Extend** CSS, so curly braces were removed  
+**LESS was designed** to be as close as possible to CSS, so syntax is identical to CSS and so curly braces are present.  
+**Existing CSS can be used as valid LESS code**   
+SASS also introduced a CSS like syntax called SCSS ( Sassy CSS )  
+**LESS is Open Source, first version was written in Ruby but later versions in Javascript**  
+**LESS** provides many mechanisms such as - **Variables, Nesting, Mixing, Operators & Functions**  
+**LESS can be used in 2 ways** - with Less.js where browser renders the output CSS from .less files OR render to CSS code.
+
+- **Bootstrap.less** includes all the components stylesheets.  
+- **Bootstrap comes standard with a 940 pixel wide, grid layout**  
+- **Bootstrap provides a set of stylesheets that provide basic style definitions for all key HTML components**
+- **Bootstrap contains other commonly used interface elements**
+- **JavaScript plug-ins**
